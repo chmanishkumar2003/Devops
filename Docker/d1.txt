@@ -1,0 +1,9 @@
+git clone apache_website from github
+cd apachewesite
+docker build -t image_name .
+docker login
+docker tag image_name dockerhub_user_name/repo
+docker images
+docker push dockerhub_user_name/repo
+
+cd ..
