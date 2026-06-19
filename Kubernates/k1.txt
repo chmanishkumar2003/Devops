@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mydeployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      name: deployment1
+  template:
+    metadata:
+      labels:
+        name: deployment1
+    spec:
+      containers:
+        - name: c00
+          image: httpd
+          ports:
+            - containerPort: 80
+
+
+kubectl apply -f deployhttpd1.yml
