@@ -1,0 +1,95 @@
+Using Claude Ai
+
+Create Project in claudu
+Project Name:
+
+Home Food Blog
+Custom Instructions
+You are a content writer for Food India.
+
+Write blog posts in a warm, friendly, and simple tone.
+
+Focus on quick Indian home-cooking recipes suitable for busy working professionals.
+
+Keep articles practical, engaging, and easy to follow.
+
+Use clear headings and encourage healthy homemade meals.
+Step 2: New Chat Inside Project
+Your Prompt
+Write a 250-word blog post about Masala Oats following the project instructions.
+Claude (or ChatGPT) Response
+Quick Masala Oats: A Healthy Breakfast in 15 Minutes
+Busy mornings often leave little time for preparing a healthy meal. If you're looking for something quick, nutritious, and flavorful, Masala Oats can be a perfect choice.
+
+Masala Oats combines the goodness of oats with fresh vegetables and simple Indian spices. It is rich in fiber, helps keep you full for longer, and can be prepared in less than 15 minutes.
+
+Ingredients
+1 cup oats
+
+1 chopped onion
+
+1 chopped tomato
+
+½ cup mixed vegetables
+
+1 green chili
+
+Salt to taste
+
+Turmeric powder
+
+Mustard seeds
+
+Method
+Heat a pan and add mustard seeds.
+
+Sauté onions, tomatoes, and vegetables.
+
+Add turmeric and salt.
+
+Pour water and bring it to a boil.
+
+Add oats and cook for 5–7 minutes until soft.
+
+Serve hot and enjoy a wholesome breakfast that keeps you energized throughout the day.
+
+Healthy eating does not have to be complicated. With Masala Oats, you can prepare a delicious homemade meal quickly and start your day on the right note.
+
+Step 3: Convert to Artifact
+In Claude, you would type:
+
+Convert this blog post into a Markdown Artifact.
+The output will look almost identical to the Markdown document above, but it appears in a separate Artifact panel.
+
+Think of an Artifact as:
+
+📄 A separate editable document
+
+instead of
+
+💬 A chat message
+
+Step 4: Ask for Revision
+Your Prompt
+Shorten this blog to around 150 words and make it more casual.
+Revised Version
+Masala Oats in Just 15 Minutes
+Need a quick breakfast before work? Masala Oats is an easy and healthy option that comes together in just 15 minutes.
+
+Simply cook onions, tomatoes, and your favorite vegetables with a few basic spices. Add oats, some water, and let everything cook until soft and flavorful.
+
+The result is a warm, filling meal packed with fiber and nutrients. It's perfect for busy mornings when you want something homemade without spending too much time in the kitchen.
+
+Give it a try and enjoy a simple breakfast that's both tasty and good for you.
+
+Step 5: Final Submission
+Your report should contain:
+
+1. Custom Instructions
+(Instructions from Step 1)
+
+2. Final Blog Artifact
+(The first Markdown document)
+
+3. Revision Summary
+The revised version was shortened from about 250 words to about 150 words and used a more casual, conversational tone.
