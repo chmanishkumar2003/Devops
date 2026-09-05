@@ -1,0 +1,2 @@
+#Why shell scripiting is used?
+It is used to automate and manange os operations in cmd.
